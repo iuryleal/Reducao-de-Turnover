@@ -11,4 +11,19 @@ Destaques:
 - O cálculo de % target e ODDS foi realizado "manualmente" - utilizando Pandas;
 - Plano de Ação foi sugerido após a análise.
 
-Link completo do artigo:[Artigo](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
+Link completo do artigo: [Artigo](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
+
+# English
+
+## Employee Turnover Reduction
+
+Highlights:
+
+- The CRISP-DM methodology was used to organize this project.
+- The dataset used was obtained from Kaggle - with 311 employees and 30 columns containing various information about the employees.
+- Exploratory Data Analysis (EDA) was performed using Python - utilizing the Pandas, Matplotlib, and Seaborn libraries.
+- IV (Information Value) calculation was carried out - using the Scorecard library.
+- % target and ODDS calculation was performed "manually" - using Pandas.
+- An Action Plan was suggested after the analysis.
+
+Full article link: [Article](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
