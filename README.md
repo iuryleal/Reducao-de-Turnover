@@ -11,4 +11,4 @@ Destaques:
 - O cálculo de % target e ODDS foi realizado "manualmente" - utilizando Pandas;
 - Plano de Ação foi sugerido após a análise.
 
-[Link completo do artigo:]("https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95")
+[Link completo do artigo:](https://medium.com/@iuryleal/redu%C3%A7%C3%A3o-de-turnover-0dd0f4f31f95)
